@@ -13,6 +13,7 @@
 *://www.pinterest.com.mx/*
 *://www.pinterest.ca/*
 *://www.pinterest.dk/*
+*://www.pinterest.fr/*
 https://apps.apple.com/us/app/pinterest/id429047995
 https://www.microsoft.com/en-us/p/pinterest/9pfhdsf91b9r
 https://play.google.com/store/apps/details?id=com.pinterest*
