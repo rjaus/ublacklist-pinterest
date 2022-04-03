@@ -21,3 +21,7 @@ https://www.amazon.com/Pinterest-Inc/dp/B008XG1X18
 https://www.instagram.com/pinterest/
 *://www.pinterest.de/*
 *://www.pinterest.ch/*
+*://www.pinterest.it/*
+*://www.pinterest.pt/*
+*://www.pinterest.ru/*
+*://www.pinterest.co.kr/*
