@@ -1,4 +1,4 @@
-/.pinterest\.*/
+/\.pinterest\.*/
 *://*.pinterest.com/*
 *://*.apple.com/(*bid429047995*)
 *://play.google.com/store/apps/details?id=com.pinterest*
