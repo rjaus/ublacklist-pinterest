@@ -1,3 +1,7 @@
+# uBlacklist Pinterest
+# https://github.com/rjaus/ublacklist-pinterest
+
+# Pinterest TLDs
 *://*.pinterest.at/*
 *://*.pinterest.ca/*
 *://*.pinterest.co.kr/*
@@ -19,11 +23,15 @@
 *://*.pinterest.pt/*
 *://*.pinterest.ru/*
 *://*.pinterest.se/*
+
+# Pinterest apps
 *://*.apple.com/*id429047995*
 *://play.google.com/store/apps/details?id=com.pinterest*
 *://play.google.com/store/apps/developer?id=Pinterest*
-*://apps.microsoft.com/store/detail/9PFHDSF91B9R*
+*://*.microsoft.com/*9PFHDSF91B9R*
+*://*.microsoft.com/*9pfhdsf91b9r* # Double because uBlacklist rules are case sensitive + Microsoft actually uses both cases in their links.
+
+# Pinterest socials
 *://*.facebook.com/Pinterest*/*
 *://instagram.com/pinterest/
 *://*.reddit.com/r/Pinterest/
-*://*.medium.com/@Pinterest_Engineering
