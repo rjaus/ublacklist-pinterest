@@ -21,8 +21,9 @@
 *://*.pinterest.se/*
 *://*.apple.com/(*bid429047995*)
 *://play.google.com/store/apps/details?id=com.pinterest*
+*://play.google.com/store/apps/developer?id=Pinterest*
+*://apps.microsoft.com/store/detail/9PFHDSF91B9R*
+*://*.facebook.com/Pinterest*/*
 *://instagram.com/pinterest/
 *://*.reddit.com/r/Pinterest/
 *://*.medium.com/@Pinterest_Engineering
-*://www.facebook.com/Pinterest*/*
-*://apps.microsoft.com/store/detail/9PFHDSF91B9R*
