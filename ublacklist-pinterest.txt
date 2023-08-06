@@ -1,5 +1,16 @@
-/\.pinterest\.*/
 *://*.pinterest.com/*
+*://*.pinterest.com.au/*
+*://*.pinterest.cl/*
+*://*.pinterest.de/*
+*://*.pinterest.dk/*
+*://*.pinterest.es/*
+*://*.pinterest.fr/*
+*://*.pinterest.co.uk/*
+*://*.pinterest.jp/*
+*://*.pinterest.co.kr/*
+*://*.pinterest.nz/*
+*://*.pinterest.pt/*
+*://*.pinterest.se/*
 *://*.apple.com/(*bid429047995*)
 *://play.google.com/store/apps/details?id=com.pinterest*
 *://instagram.com/pinterest/
