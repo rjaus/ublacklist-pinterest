@@ -24,5 +24,5 @@
 *://instagram.com/pinterest/
 *://*.reddit.com/r/Pinterest/
 *://*.medium.com/@Pinterest_Engineering
-*://www.facebook.com/PinterestUK/
+*://www.facebook.com/Pinterest*/*
 *://apps.microsoft.com/store/detail/9PFHDSF91B9R*
