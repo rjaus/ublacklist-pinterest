@@ -19,7 +19,7 @@
 *://*.pinterest.pt/*
 *://*.pinterest.ru/*
 *://*.pinterest.se/*
-*://*.apple.com/(*bid429047995*)
+*://*.apple.com/*id429047995*
 *://play.google.com/store/apps/details?id=com.pinterest*
 *://play.google.com/store/apps/developer?id=Pinterest*
 *://apps.microsoft.com/store/detail/9PFHDSF91B9R*
