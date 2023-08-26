@@ -1,7 +1,7 @@
 # uBlacklist Pinterest
 # https://github.com/rjaus/ublacklist-pinterest
 
-# Pinterest TLDs
+# Main TLDs
 *://*.pinterest.at/*
 *://*.pinterest.ca/*
 *://*.pinterest.co.kr/*
@@ -23,3 +23,7 @@
 *://*.pinterest.pt/*
 *://*.pinterest.ru/*
 *://*.pinterest.se/*
+
+# Redirections
+*://*.pin.it/*
+*://*.pinimg.com/*
