@@ -8,7 +8,10 @@
 *://*.pinterest.co.uk/*
 *://*.pinterest.com/*
 *://*.pinterest.com.au/*
+*://*.pinterest.com.bo/*
 *://*.pinterest.com.mx/*
+*://*.pinterest.com.pe/*
+*://*.pinterest.com.uy/*
 *://*.pinterest.ch/*
 *://*.pinterest.cl/*
 *://*.pinterest.de/*
@@ -16,9 +19,11 @@
 *://*.pinterest.es/*
 *://*.pinterest.fr/*
 *://*.pinterest.ie/*
+*://*.pinterest.info/*
 *://*.pinterest.it/*
 *://*.pinterest.jp/*
 *://*.pinterest.nz/*
+*://*.pinterest.pe/*
 *://*.pinterest.ph/*
 *://*.pinterest.pt/*
 *://*.pinterest.ru/*
