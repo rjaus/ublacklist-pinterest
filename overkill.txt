@@ -1,5 +1,5 @@
 # Every `.pinterest.`
-/\.pinterest\.*/
+/\.pinterest\./
 
 # Apps
 *://*.apple.com/*id429047995*
