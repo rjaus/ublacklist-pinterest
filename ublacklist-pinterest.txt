@@ -56,11 +56,3 @@
 # Shorter redirections
 *://*.pin.it/*
 *://*.pinimg.com/*
-
-# Other sites
-pinterest100.com
-pinterestcareers.com
-pinterestpredicts.com
-pinterest.engineering
-pintereststatus.com
-querybook.org
