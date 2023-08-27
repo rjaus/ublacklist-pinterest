@@ -1,2 +1,2 @@
 # ublacklist-pinterest
-ublacklist to block all pinterest websites from google, ddg, bing
+Blocklist compatible with [uBlacklist](https://github.com/iorate/ublacklist) to remove Pinterest from your search engine results.
