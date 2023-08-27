@@ -14,4 +14,12 @@
 *://*.reddit.com/r/Pinterest/*
 
 # Other blogs
-*://*.medium.com/@Pinterest_Engineering
+*://*.medium.com/@Pinterest_Engineering/*
+
+# Other sites
+*://*.pinterest100.com/*
+*://*.pinterestcareers.com/*
+*://*.pinterestpredicts.com/*
+*://*.pinterest.engineering/*
+*://*.pintereststatus.com/*
+*://*.querybook.org/*
