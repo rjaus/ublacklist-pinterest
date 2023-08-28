@@ -1,9 +1,58 @@
-/.pinterest\.*/
+# uBlacklist Pinterest
+# https://github.com/rjaus/ublacklist-pinterest
+
+# Main TLDs
+*://*.pinterest.at/*
+*://*.pinterest.co.at/*
+*://*.pinterest.com.au/*
+*://*.pinterest.be/*
+*://*.pinterest.com.bo/*
+*://*.pinterest.ca/*
+*://*.pinterest.co/*
 *://*.pinterest.com/*
-*://*.apple.com/(*bid429047995*)
-*://play.google.com/store/apps/details?id=com.pinterest*
-*://instagram.com/pinterest/
-*://*.reddit.com/r/Pinterest/
-*://*.medium.com/@Pinterest_Engineering
-*://www.facebook.com/PinterestUK/
-*://apps.microsoft.com/store/detail/9PFHDSF91B9R*
+*://*.pinterest.ch/*
+*://*.pinterest.cl/*
+*://*.pinterest.de/*
+*://*.pinterest.dk/*
+*://*.pinterest.ec/*
+*://*.pinterest.com.ec/*
+*://*.pinterest.es/*
+*://*.pinterest.fr/*
+*://*.pinterest.hu/*
+*://*.pinterest.id/*
+*://*.pinterest.ie/*
+*://*.pinterest.in/*
+*://*.pinterest.co.in/*
+*://*.pinterest.info/*
+*://*.pinterest.it/*
+*://*.pinterest.jp/*
+*://*.pinterest.kr/*
+*://*.pinterest.co.kr/*
+*://*.pinterest.mx/*
+*://*.pinterest.com.mx/*
+*://*.pinterest.nl/*
+*://*.pinterest.nz/*
+*://*.pinterest.co.nz/*
+*://*.pinterest.pe/*
+*://*.pinterest.com.pe/*
+*://*.pinterest.ph/*
+*://*.pinterest.pt/*
+*://*.pinterest.com.py/*
+*://*.pinterest.ru/*
+*://*.pinterest.se/*
+*://*.pinterest.th/*
+*://*.pinterest.tw/*
+*://*.pinterest.uk/*
+*://*.pinterest.co.uk/*
+*://*.pinterest.com.uy/*
+*://*.pinterest.vn/*
+*://*.pinterest.com.vn/*
+
+# Misspells
+*://*.pintrest.com/*
+*://*.pinterst.com/*
+*://*.pintrist.com/*
+
+# Shorter redirections
+*://*.pin.it/*
+*://*.pinimg.com/*
