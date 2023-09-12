@@ -1,5 +1,8 @@
-# uBlacklist Pinterest basic list
+# uBlacklist Pinterest basic overkill
 # https://github.com/rjaus/ublacklist-pinterest
+
+# Overkill regex: every `.pinterest.`
+/\.pinterest\./
 
 # Basic list
 
