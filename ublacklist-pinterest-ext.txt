@@ -1,4 +1,4 @@
-# uBlacklist Pinterest basic list
+# uBlacklist Pinterest extended list
 # https://github.com/rjaus/ublacklist-pinterest
 
 # Basic list
@@ -58,3 +58,28 @@
 ## Shorter redirections
 *://*.pin.it/*
 *://*.pinimg.com/*
+
+# Extended list
+
+## Apps
+*://*.apple.com/*id429047995*
+*://*.google.com/*id=com.pinterest*
+*://*.google.com/*id=Pinterest*
+*://*.microsoft.com/*9PFHDSF91B9R*
+*://*.microsoft.com/*9pfhdsf91b9r* # Double because uBlacklist rules are case sensitive + Microsoft actually uses both cases in their links.
+
+## Socials
+*://*.facebook.com/Pinterest*/*
+*://*.instagram.com/pinterest/*
+*://*.reddit.com/r/Pinterest/*
+
+## Other blogs
+*://*.medium.com/@Pinterest_Engineering/*
+
+## Other sites
+*://*.pinterest100.com/*
+*://*.pinterestcareers.com/*
+*://*.pinterestpredicts.com/*
+*://*.pinterest.engineering/*
+*://*.pintereststatus.com/*
+*://*.querybook.org/*
