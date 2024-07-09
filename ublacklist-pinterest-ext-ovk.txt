@@ -1,8 +1,11 @@
-# uBlacklist Pinterest extended overkill
-# https://github.com/rjaus/ublacklist-pinterest
+---
+name: uBlacklist Pinterest extended overkill
+description: A uBlacklist blocklist to remove Pinterest from your search results.
+homepage: https://github.com/rjaus/ublacklist-pinterest
+---
 
-# Overkill regex: every `.pinterest.`
-/\.pinterest\./
+# Overkill: match every `.pinterest.`
+host *= ".pinterest." i
 
 # Basic list
 

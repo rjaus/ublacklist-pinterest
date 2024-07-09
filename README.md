@@ -5,7 +5,8 @@ A [uBlacklist](https://github.com/iorate/ublacklist) blocklist to remove Pintere
 |               | Normal           | Overkill option  |
 |---------------|------------------|------------------|
 | Basic list    | [Basic list](https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt) / [Subscribe](https://iorate.github.io/ublacklist/subscribe?name=ublacklist-pinterest-basic&url=https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt) | [Basic list overkill](https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest-ovk.txt) / [Subscribe](https://iorate.github.io/ublacklist/subscribe?name=ublacklist-pinterest-basic-overkill&url=https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest-ovk.txt) |
-| Extended list | [Extended list](https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest-ext.txt) / [Subscribe](https://iorate.github.io/ublacklist/subscribe?name=ublacklist-pinterest-extended&url=https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt) | [Extended list overkill](https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest-ext-ovk.txt) / [Subscribe](https://iorate.github.io/ublacklist/subscribe?name=ublacklist-pinterest-extended-overkill&url=https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest.txt) |
+| Extended list | [Extended list](https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest-ext.txt) / [Subscribe](https://iorate.github.io/ublacklist/subscribe?name=ublacklist-pinterest-extended&url=https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest-ext.txt) | [Extended list overkill](https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest-ext-ovk.txt) / [Subscribe](https://iorate.github.io/ublacklist/subscribe?name=ublacklist-pinterest-extended-overkill&url=https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterestext-ovk.txt) |
+| Image only | | [Image only](https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest-img.txt) / [Subscribe](https://iorate.github.io/ublacklist/subscribe?name=ublacklist-pinterest-img&url=https://raw.githubusercontent.com/rjaus/ublacklist-pinterest/main/ublacklist-pinterest-img.txt) |
 
 ## Basic list
 
@@ -16,7 +17,11 @@ The extended blocklist also adds rules to remove all apps, socials and other ser
 
 ## Overkill option
 
-The overkill option adds a regex rule that block any URL containing `.pinterest.`. It will block all future TLDs like `pinterest.pin`, but will also block your favorite subdomain `pinterest.example.com`. [This is a regex rule as it is not supported by match pattern for security reasons.](https://developer.chrome.com/docs/extensions/mv3/faq/#faq-dev-16)
+The overkill option adds an host rule that blocks any URL containing `.pinterest.`. It will block all future TLDs (e.g. `pinterest.pin`) but will also block your favorite subdomain `pinterest.is.bad`.
+
+## Image search only
+
+A minimal blocklist consisting of one rule: block all `.pinterest.` results in image search.
 
 ## References
 
