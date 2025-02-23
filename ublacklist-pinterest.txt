@@ -1,5 +1,8 @@
-# uBlacklist Pinterest basic list
-# https://github.com/rjaus/ublacklist-pinterest
+---
+name: uBlacklist Pinterest basic list
+description: A uBlacklist blocklist to remove Pinterest from your search results.
+homepage: https://github.com/rjaus/ublacklist-pinterest
+---
 
 # Basic list
 

@@ -1,0 +1,8 @@
+---
+name: uBlacklist Pinterest image search only
+description: A uBlacklist blocklist to remove Pinterest from your search results.
+homepage: https://github.com/rjaus/ublacklist-pinterest
+---
+
+# Overkill: match every `.pinterest.`
+host *= ".pinterest." i & $category="images"

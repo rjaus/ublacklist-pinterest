@@ -1,6 +1,8 @@
-# uBlacklist Pinterest extended list
-# https://github.com/rjaus/ublacklist-pinterest
-
+---
+name: uBlacklist Pinterest extended list
+description: A uBlacklist blocklist to remove Pinterest from your search results.
+homepage: https://github.com/rjaus/ublacklist-pinterest
+---
 # Basic list
 
 ## Main TLDs
